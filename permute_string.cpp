@@ -31,7 +31,7 @@ bool isUnique(std::string s) {
 
 int main() {
   std::string s;
-  std::cout << "Enter a string with unique characters : \n";
+  std::cout << "asit lord plzz Enter a string with unique characters : \n";
   std::cin >> s;
 
   assert(isUnique(s));
